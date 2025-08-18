@@ -3,7 +3,7 @@
 A responsive landing page for a fictional healthy food delivery service. This project was created while learning HTML & CSS in the Udemy course “Build Responsive Real-World Websites with HTML and CSS” by Jonas Schmedtmann.
 
 🌐 **Live Demo**  
-[https://omnifood-ishwarin.netlify.app/]()
+(https://omnifood-ishwarin.netlify.app/)
 
 ---
 
